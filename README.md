@@ -1,2 +1,2 @@
 # RemoteDoc-app
-College project
+College project.
